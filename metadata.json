@@ -1,0 +1,5 @@
+{
+  "name": "Case Support Work-up Generator",
+  "description": "A tool to parse a criminal history report from a Word document, extract key information locally in your browser, and format it into a clean, readable, and printable document.",
+  "requestFramePermissions": []
+}
